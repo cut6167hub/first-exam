@@ -1,0 +1,231 @@
+
+
+
+
+/* banner style */
+
+.banner{
+    background-image: url(../assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    padding: 20px 20px 30px 30px ;
+    
+
+    
+}
+
+.banner-img{
+    justify-content: center;
+    text-align: center;
+    
+
+}
+
+.head-title{
+    font-family: "Open Sans";
+    font-weight: 700;
+    text-align: center;
+
+}
+
+.head-disc{
+    color: rgb(26, 26, 26);
+    text-align: center;
+    font-family: "Open Sans"
+
+}
+
+ .btn{
+    color: white;
+    background-color: rgb(30, 29, 29);
+    border-radius: 5px;
+    padding: 8px 16px;
+    border-color: rgb(21,20,20);
+    border: solid black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    
+    
+}
+.btn-cont {
+    text-align: center;
+}
+
+
+
+/* main section */
+
+.main{
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px;
+}
+
+
+
+.sec-1-title{
+    font-family: "Open Sans";
+    text-align: center;
+    font-weight: 500;
+    margin-top: 80px;
+
+    
+}
+.sec-1-disc{
+    height: 200px;
+    text-align: center;
+    font-family: "Open Sans";
+    font-weight: 400 ;
+    color: gray;
+    padding: 20px 20px 40px 40px;
+   
+}
+
+.sec-2{ 
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(238, 238, 238);
+    border: 20px solid rgb(238, 238, 238);
+    margin-bottom: 20px;
+        
+
+}
+    
+
+
+
+.sec-2-title{
+    color: rgb(24, 24, 24);
+    font-family: "Open Sans";
+    max-width: 600px;
+}
+.sec-2-disc{
+    color: rgb(24,24,24);
+    width: 350px;
+}
+
+.sec-2-btn{
+    color:gray;
+    border: 2px solid gray;
+    padding: 10px 15px;
+    
+
+}
+
+
+
+
+
+.sec-3{ 
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(238, 238, 238);
+    border: 20px solid rgb(238, 238, 238);
+    margin-bottom: 20px;
+
+
+}
+
+.sec-3-title{
+    color: rgb(24, 24, 24);
+    font-family: "Open Sans";
+    max-width: 600px;
+
+}
+
+.sec-3-disc{
+
+    color: rgb(24,24,24);
+    width: 350px;
+}
+
+.sec-3-btn{
+    color:gray;
+    border: 2px solid gray;
+    padding: 10px 15px;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.sec-4{ display: flex;
+    justify-content: space-around;
+    background-color: rgb(238, 238, 238);
+    border: 20px solid rgb(238, 238, 238);
+    margin-bottom: 20px;
+    
+
+
+}
+
+.sec-4-title{
+    color: rgb(24, 24, 24);
+    font-family: "Open Sans";
+    max-width: 600px;
+
+}
+
+.sec-4-title{
+    color: rgb(24, 24, 24);
+    font-family: "Open Sans";
+    max-width: 600px;
+
+}
+
+.sec-4-disc{
+    color: rgb(24,24,24);
+    width: 350px;
+
+}
+
+.sec-4-btn{
+    color:gray;
+    border: 2px solid gray;
+    padding: 10px 15px;
+    
+}
+
+
+
+
+
+
+.insp{
+    text-align: center;
+}
+
+.insp-title{
+    font-family: "Open Sans";
+    text-align: center;
+    font-weight: 500;
+    margin-top: 80px;
+
+
+}
+.insp-disc{
+    height: 200px;
+    text-align: center;
+    font-family: "Open Sans";
+    font-weight: 400 ;
+    color: gray;
+    padding: 20px 20px 40px 40px;
+    margin-bottom: 30px;
+}
+
+.ifr{
+    
+    margin-top: 20px 30;
+    text-align: center;
+}
